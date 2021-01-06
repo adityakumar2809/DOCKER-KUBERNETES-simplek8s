@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
     - name: client
-      image:  adityakumar2809/complex-fibonacci-client
+      image:  adityakumar2809/complex-fibonacci-worker
       ports:
         - containerPort: 3000
